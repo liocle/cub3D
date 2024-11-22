@@ -1,4 +1,4 @@
-# cub3D
+# cub3D 3D Raycasting Game
 
 ## Description
 
